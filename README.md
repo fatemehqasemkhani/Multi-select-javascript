@@ -7,11 +7,11 @@ I did not use React to show the inner workings of Javascript.
 
 For running the project:
 
-1. npm i
-2. npm run dev
+`npm i`
+`npm run dev`
 
 It will be run on 3000 port.
 
 For building the project:
-1. npm run build
+`npm run build`
 

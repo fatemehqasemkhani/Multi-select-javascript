@@ -8,6 +8,7 @@ I did not use React to show the inner workings of Javascript.
 For running the project:
 
 `npm i`
+
 `npm run dev`
 
 It will be run on 3000 port.
